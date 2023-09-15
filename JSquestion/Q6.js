@@ -9,4 +9,3 @@ function createHelloWorld() {
       return hello;
     };
   }
-  
