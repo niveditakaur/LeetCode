@@ -27,7 +27,7 @@ Output: [-2,-1,0,1,2]
 Explanation: counter() initially returns -2. Then increases after each sebsequent call.
 ```
 
-**Example 2:**
+**Example 3:**
 
 ```
 Input: nums = [3,3], target = 6
