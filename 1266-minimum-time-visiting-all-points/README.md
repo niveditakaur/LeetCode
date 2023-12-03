@@ -16,6 +16,7 @@ You can move according to these rules:
 **Example 1:**
 
 <img src = "https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG">
+
 ```
 Input: points = [[1,1],[3,4],[-1,0]]
 Output: 7
